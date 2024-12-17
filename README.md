@@ -1,5 +1,3 @@
 <div align="center">
-  
-![Talent and Instinct Quote by Oikawa Tooru](https://github.com/user-attachments/assets/0c3349db-c50a-488a-98c5-c171768f7d4d)
-
+  <img src="https://github.com/aliiakbarkhan/whac-superman-java-game/blob/main/download.jpg" alt="Talent and Instinct Quote by Oikawa Tooru" width="400px">
 </div>
